@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "p1",
+    "name": "Classic Leather Handbag",
+    "description": "Elegant brown leather handbag with gold chain straps.",
+    "price": 2999,
+    "category": "Accessories",
+    "images": [
+      "/images/products/p1.jpg"
+    ],
+    "stock": 25,
+    "rating": 4.6,
+    "review_count": 120,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p2",
+    "name": "Luxury Chronograph Watch",
+    "description": "Water-resistant analog watch with stainless steel strap.",
+    "price": 12499,
+    "category": "Watches",
+    "images": [
+      "/images/products/p2.jpg"
+    ],
+    "stock": 18,
+    "rating": 4.8,
+    "review_count": 75,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p3",
+    "name": "Men’s Slim Fit Blazer",
+    "description": "Tailored slim-fit navy blue blazer for formal occasions.",
+    "price": 5499,
+    "category": "Clothing",
+    "images": [
+      "/images/products/p3.jpg"
+    ],
+    "stock": 40,
+    "rating": 4.4,
+    "review_count": 90,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p4",
+    "name": "Wireless Bluetooth Earbuds",
+    "description": "Noise-cancelling wireless earbuds with fast charging case.",
+    "price": 3999,
+    "category": "Electronics",
+    "images": [
+      "/images/products/p4.jpg"
+    ],
+    "stock": 60,
+    "rating": 4.7,
+    "review_count": 180,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p5",
+    "name": "Running Sports Shoes",
+    "description": "Lightweight and breathable shoes perfect for everyday runs.",
+    "price": 2599,
+    "category": "Footwear",
+    "images": [
+      "/images/products/p5.jpg"
+    ],
+    "stock": 80,
+    "rating": 4.3,
+    "review_count": 150,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p6",
+    "name": "Silk Evening Dress",
+    "description": "Elegant purple silk evening gown with off-shoulder design.",
+    "price": 8999,
+    "category": "Clothing",
+    "images": [
+      "/images/products/p6.jpg"
+    ],
+    "stock": 22,
+    "rating": 4.9,
+    "review_count": 210,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p7",
+    "name": "Gold-Plated Necklace Set",
+    "description": "Traditional gold-plated necklace with matching earrings.",
+    "price": 4599,
+    "category": "Jewelry",
+    "images": [
+      "/images/products/p7.jpg"
+    ],
+    "stock": 35,
+    "rating": 4.5,
+    "review_count": 70,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p8",
+    "name": "Smart Fitness Band",
+    "description": "Waterproof smart fitness tracker with heart rate monitor.",
+    "price": 2999,
+    "category": "Electronics",
+    "images": [
+      "/images/products/p8.jpg"
+    ],
+    "stock": 55,
+    "rating": 4.4,
+    "review_count": 130,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p9",
+    "name": "Men’s Leather Wallet",
+    "description": "Premium brown leather wallet with multiple card slots.",
+    "price": 1299,
+    "category": "Accessories",
+    "images": [
+      "/images/products/p9.jpg"
+    ],
+    "stock": 75,
+    "rating": 4.6,
+    "review_count": 145,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p10",
+    "name": "Designer Sunglasses",
+    "description": "Stylish UV-protected sunglasses with metal frame.",
+    "price": 1999,
+    "category": "Accessories",
+    "images": [
+      "/images/products/p10.jpg"
+    ],
+    "stock": 65,
+    "rating": 4.7,
+    "review_count": 98,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p11",
+    "name": "Wireless Gaming Mouse",
+    "description": "Ergonomic wireless gaming mouse with RGB lighting.",
+    "price": 2499,
+    "category": "Electronics",
+    "images": [
+      "/images/products/p11.jpg"
+    ],
+    "stock": 50,
+    "rating": 4.8,
+    "review_count": 210,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p12",
+    "name": "Wooden Coffee Table",
+    "description": "Elegant oak wood coffee table with a minimalist design.",
+    "price": 6999,
+    "category": "Home Decor",
+    "images": [
+      "/images/products/p12.jpg"
+    ],
+    "stock": 15,
+    "rating": 4.6,
+    "review_count": 85,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p13",
+    "name": "Ceramic Vase Set",
+    "description": "Set of 3 matte-finish decorative vases for home interiors.",
+    "price": 1899,
+    "category": "Home Decor",
+    "images": [
+      "/images/products/p13.jpg"
+    ],
+    "stock": 60,
+    "rating": 4.4,
+    "review_count": 45,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p14",
+    "name": "Professional Hair Dryer",
+    "description": "Salon-grade 2000W hair dryer with ionic conditioning.",
+    "price": 2799,
+    "category": "Beauty",
+    "images": [
+      "/images/products/p14.jpg"
+    ],
+    "stock": 40,
+    "rating": 4.7,
+    "review_count": 130,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p15",
+    "name": "Yoga Mat Pro",
+    "description": "Eco-friendly, non-slip yoga mat with superior grip and cushioning.",
+    "price": 1299,
+    "category": "Fitness",
+    "images": [
+      "/images/products/p15.jpg"
+    ],
+    "stock": 90,
+    "rating": 4.6,
+    "review_count": 260,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p16",
+    "name": "Non-stick Cookware Set",
+    "description": "Premium 5-piece non-stick cookware set with glass lids.",
+    "price": 4999,
+    "category": "Kitchen",
+    "images": [
+      "/images/products/p16.jpg"
+    ],
+    "stock": 35,
+    "rating": 4.5,
+    "review_count": 160,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p17",
+    "name": "Cotton Bedsheet Set",
+    "description": "100% pure cotton bedsheet with two matching pillow covers.",
+    "price": 1799,
+    "category": "Home Decor",
+    "images": [
+      "/images/products/p17.jpg"
+    ],
+    "stock": 75,
+    "rating": 4.5,
+    "review_count": 200,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p18",
+    "name": "Smart LED TV 43 inch",
+    "description": "Ultra HD Smart LED TV with built-in streaming apps and WiFi.",
+    "price": 29999,
+    "category": "Electronics",
+    "images": [
+      "/images/products/p18.jpg"
+    ],
+    "stock": 20,
+    "rating": 4.8,
+    "review_count": 310,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p19",
+    "name": "Bluetooth Speaker",
+    "description": "Portable waterproof Bluetooth speaker with deep bass sound.",
+    "price": 3499,
+    "category": "Electronics",
+    "images": [
+      "/images/products/p19.jpg"
+    ],
+    "stock": 70,
+    "rating": 4.6,
+    "review_count": 230,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p20",
+    "name": "Men’s Formal Shoes",
+    "description": "Classic black leather formal shoes for office and business wear.",
+    "price": 2999,
+    "category": "Footwear",
+    "images": [
+      "/images/products/p20.jpg"
+    ],
+    "stock": 45,
+    "rating": 4.7,
+    "review_count": 170,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p21",
+    "name": "Electric Kettle 1.5L",
+    "description": "Stainless steel electric kettle with auto shut-off and 1500W power.",
+    "price": 1599,
+    "category": "Kitchen",
+    "images": [
+      "/images/products/p21.jpg"
+    ],
+    "stock": 50,
+    "rating": 4.5,
+    "review_count": 140,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p22",
+    "name": "Wireless Keyboard & Mouse Combo",
+    "description": "Compact wireless keyboard and mouse combo with long battery life.",
+    "price": 2499,
+    "category": "Electronics",
+    "images": [
+      "/images/products/p22.jpg"
+    ],
+    "stock": 60,
+    "rating": 4.4,
+    "review_count": 95,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p23",
+    "name": "Diamond Stud Earrings",
+    "description": "Elegant diamond stud earrings crafted with sterling silver.",
+    "price": 11999,
+    "category": "Jewelry",
+    "images": [
+      "/images/products/p23.jpg"
+    ],
+    "stock": 25,
+    "rating": 4.9,
+    "review_count": 180,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p24",
+    "name": "Marble Dinner Set",
+    "description": "Luxury 16-piece dinner set with a marble pattern design.",
+    "price": 5499,
+    "category": "Kitchen",
+    "images": [
+      "/images/products/p24.jpg"
+    ],
+    "stock": 30,
+    "rating": 4.7,
+    "review_count": 160,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p25",
+    "name": "Cotton Polo T-shirt",
+    "description": "Classic fit cotton polo shirt available in multiple colors.",
+    "price": 1299,
+    "category": "Clothing",
+    "images": [
+      "/images/products/p25.jpg"
+    ],
+    "stock": 80,
+    "rating": 4.3,
+    "review_count": 240,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p26",
+    "name": "Rose Gold Bracelet",
+    "description": "Stylish rose gold bracelet perfect for parties and gifts.",
+    "price": 2999,
+    "category": "Jewelry",
+    "images": [
+      "/images/products/p26.jpg"
+    ],
+    "stock": 40,
+    "rating": 4.6,
+    "review_count": 105,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p27",
+    "name": "Noise Cancelling Headphones",
+    "description": "Over-ear Bluetooth headphones with noise cancellation and deep bass.",
+    "price": 6999,
+    "category": "Electronics",
+    "images": [
+      "/images/products/p27.jpg"
+    ],
+    "stock": 35,
+    "rating": 4.8,
+    "review_count": 320,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p28",
+    "name": "Wooden Wall Clock",
+    "description": "Rustic wall clock made of solid pine wood with silent sweep movement.",
+    "price": 2199,
+    "category": "Home Decor",
+    "images": [
+      "/images/products/p28.jpg"
+    ],
+    "stock": 55,
+    "rating": 4.4,
+    "review_count": 150,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p29",
+    "name": "Lipstick Set (Pack of 5)",
+    "description": "Matte finish lipstick set with rich and long-lasting colors.",
+    "price": 1699,
+    "category": "Beauty",
+    "images": [
+      "/images/products/p29.jpg"
+    ],
+    "stock": 65,
+    "rating": 4.5,
+    "review_count": 210,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p30",
+    "name": "Casual Sneakers",
+    "description": "Trendy and comfortable sneakers perfect for daily wear.",
+    "price": 2899,
+    "category": "Footwear",
+    "images": [
+      "/images/products/p30.jpg"
+    ],
+    "stock": 85,
+    "rating": 4.6,
+    "review_count": 310,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p31",
+    "name": "Smartphone 128GB",
+    "description": "High-performance smartphone with 6.5-inch display and 128GB storage.",
+    "price": 24999,
+    "category": "Electronics",
+    "images": [
+      "/images/products/p31.jpg"
+    ],
+    "stock": 40,
+    "rating": 4.8,
+    "review_count": 550,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p32",
+    "name": "Bluetooth Car Adapter",
+    "description": "Wireless car Bluetooth adapter with built-in microphone and fast charging.",
+    "price": 1299,
+    "category": "Automobile",
+    "images": [
+      "/images/products/p32.jpg"
+    ],
+    "stock": 100,
+    "rating": 4.5,
+    "review_count": 170,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p33",
+    "name": "Table Lamp with USB Port",
+    "description": "Modern LED table lamp with adjustable brightness and USB charging port.",
+    "price": 1899,
+    "category": "Home Decor",
+    "images": [
+      "/images/products/p33.jpg"
+    ],
+    "stock": 60,
+    "rating": 4.4,
+    "review_count": 120,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p34",
+    "name": "Electric Hair Trimmer",
+    "description": "Rechargeable hair and beard trimmer with 5 length settings.",
+    "price": 1999,
+    "category": "Beauty",
+    "images": [
+      "/images/products/p34.jpg"
+    ],
+    "stock": 80,
+    "rating": 4.6,
+    "review_count": 240,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p35",
+    "name": "Kids’ Building Blocks Set",
+    "description": "Colorful 100-piece building block set to encourage creativity.",
+    "price": 1499,
+    "category": "Toys",
+    "images": [
+      "/images/products/p35.jpg"
+    ],
+    "stock": 70,
+    "rating": 4.7,
+    "review_count": 320,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p36",
+    "name": "Women’s Ankle Boots",
+    "description": "Stylish leather ankle boots perfect for winter fashion.",
+    "price": 3999,
+    "category": "Footwear",
+    "images": [
+      "/images/products/p36.jpg"
+    ],
+    "stock": 35,
+    "rating": 4.5,
+    "review_count": 95,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p37",
+    "name": "Scented Candle Set",
+    "description": "Pack of 4 aromatherapy candles with long-lasting fragrance.",
+    "price": 1299,
+    "category": "Home Decor",
+    "images": [
+      "/images/products/p37.jpg"
+    ],
+    "stock": 90,
+    "rating": 4.6,
+    "review_count": 145,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p38",
+    "name": "Laptop Backpack",
+    "description": "Water-resistant laptop backpack with USB charging port and multiple compartments.",
+    "price": 2599,
+    "category": "Accessories",
+    "images": [
+      "/images/products/p38.jpg"
+    ],
+    "stock": 100,
+    "rating": 4.7,
+    "review_count": 200,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p39",
+    "name": "Gaming Keyboard RGB",
+    "description": "Mechanical RGB backlit keyboard for gaming enthusiasts.",
+    "price": 3499,
+    "category": "Electronics",
+    "images": [
+      "/images/products/p39.jpg"
+    ],
+    "stock": 45,
+    "rating": 4.8,
+    "review_count": 260,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p40",
+    "name": "Travel Duffel Bag",
+    "description": "Spacious waterproof travel duffel bag with detachable strap.",
+    "price": 2799,
+    "category": "Accessories",
+    "images": [
+      "/images/products/p40.jpg"
+    ],
+    "stock": 60,
+    "rating": 4.6,
+    "review_count": 180,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p41",
+    "name": "Men’s Denim Jacket",
+    "description": "Classic blue denim jacket with button closure and slim fit design.",
+    "price": 3499,
+    "category": "Clothing",
+    "images": [
+      "/images/products/p41.jpg"
+    ],
+    "stock": 70,
+    "rating": 4.5,
+    "review_count": 210,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p42",
+    "name": "Women’s Handbag",
+    "description": "Elegant PU leather handbag with golden chain strap.",
+    "price": 2999,
+    "category": "Accessories",
+    "images": [
+      "/images/products/p42.jpg"
+    ],
+    "stock": 90,
+    "rating": 4.6,
+    "review_count": 280,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p43",
+    "name": "Digital Alarm Clock",
+    "description": "LED digital alarm clock with temperature display and USB power option.",
+    "price": 1199,
+    "category": "Home Decor",
+    "images": [
+      "/images/products/p43.jpg"
+    ],
+    "stock": 120,
+    "rating": 4.4,
+    "review_count": 130,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p44",
+    "name": "Electric Toothbrush",
+    "description": "Rechargeable electric toothbrush with soft bristles and 2-minute timer.",
+    "price": 2499,
+    "category": "Beauty",
+    "images": [
+      "/images/products/p44.jpg"
+    ],
+    "stock": 80,
+    "rating": 4.7,
+    "review_count": 190,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p45",
+    "name": "Men’s Running Shoes",
+    "description": "Lightweight breathable running shoes with cushioned sole.",
+    "price": 3599,
+    "category": "Footwear",
+    "images": [
+      "/images/products/p45.jpg"
+    ],
+    "stock": 60,
+    "rating": 4.6,
+    "review_count": 230,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p46",
+    "name": "Mini Portable Projector",
+    "description": "Compact projector for movies and gaming with HDMI and USB support.",
+    "price": 8999,
+    "category": "Electronics",
+    "images": [
+      "/images/products/p46.jpg"
+    ],
+    "stock": 35,
+    "rating": 4.5,
+    "review_count": 180,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p47",
+    "name": "Wireless Earbuds",
+    "description": "Bluetooth 5.0 earbuds with touch control and noise isolation.",
+    "price": 3999,
+    "category": "Electronics",
+    "images": [
+      "/images/products/p47.jpg"
+    ],
+    "stock": 85,
+    "rating": 4.7,
+    "review_count": 340,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p48",
+    "name": "Ceramic Dinner Plates Set",
+    "description": "Elegant ceramic plates, perfect for family dinners or gifting.",
+    "price": 2799,
+    "category": "Kitchen",
+    "images": [
+      "/images/products/p48.jpg"
+    ],
+    "stock": 50,
+    "rating": 4.5,
+    "review_count": 170,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p49",
+    "name": "Women’s Sunglasses",
+    "description": "UV-protected gradient sunglasses with modern frame design.",
+    "price": 1599,
+    "category": "Accessories",
+    "images": [
+      "/images/products/p49.jpg"
+    ],
+    "stock": 70,
+    "rating": 4.6,
+    "review_count": 200,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p50",
+    "name": "Mechanical Wrist Watch",
+    "description": "Classic automatic mechanical wrist watch with leather strap.",
+    "price": 4999,
+    "category": "Accessories",
+    "images": [
+      "/images/products/p50.jpg"
+    ],
+    "stock": 30,
+    "rating": 4.8,
+    "review_count": 260,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p51",
+    "name": "Smart Fitness Watch",
+    "description": "Track your steps, heart rate, sleep, and notifications with this waterproof smartwatch.",
+    "price": 5999,
+    "category": "Electronics",
+    "images": [
+      "/images/products/p51.jpg"
+    ],
+    "stock": 75,
+    "rating": 4.7,
+    "review_count": 390,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p52",
+    "name": "Wireless Charging Pad",
+    "description": "Fast wireless charger compatible with all Qi-enabled smartphones.",
+    "price": 1799,
+    "category": "Electronics",
+    "images": [
+      "/images/products/p52.jpg"
+    ],
+    "stock": 90,
+    "rating": 4.6,
+    "review_count": 220,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p53",
+    "name": "Men’s Leather Wallet",
+    "description": "Premium brown leather wallet with RFID protection and multiple card slots.",
+    "price": 1499,
+    "category": "Accessories",
+    "images": [
+      "/images/products/p53.jpg"
+    ],
+    "stock": 120,
+    "rating": 4.5,
+    "review_count": 330,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p54",
+    "name": "Kitchen Blender 600W",
+    "description": "Powerful kitchen blender with 3-speed control and stainless-steel blades.",
+    "price": 2999,
+    "category": "Kitchen",
+    "images": [
+      "/images/products/p54.jpg"
+    ],
+    "stock": 45,
+    "rating": 4.4,
+    "review_count": 150,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p55",
+    "name": "Portable Bluetooth Speaker",
+    "description": "Compact speaker with deep bass, 12-hour playtime, and waterproof design.",
+    "price": 2499,
+    "category": "Electronics",
+    "images": [
+      "/images/products/p55.jpg"
+    ],
+    "stock": 100,
+    "rating": 4.8,
+    "review_count": 500,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p56",
+    "name": "Women’s Heels",
+    "description": "Elegant high heels with padded sole for all-day comfort.",
+    "price": 3299,
+    "category": "Footwear",
+    "images": [
+      "/images/products/p56.jpg"
+    ],
+    "stock": 55,
+    "rating": 4.5,
+    "review_count": 210,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p57",
+    "name": "Men’s Formal Shirt",
+    "description": "Slim-fit cotton formal shirt suitable for office and parties.",
+    "price": 1899,
+    "category": "Clothing",
+    "images": [
+      "/images/products/p57.jpg"
+    ],
+    "stock": 85,
+    "rating": 4.4,
+    "review_count": 160,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p58",
+    "name": "Coffee Maker Machine",
+    "description": "Automatic espresso coffee maker with frothing wand for creamy lattes.",
+    "price": 7999,
+    "category": "Kitchen",
+    "images": [
+      "/images/products/p58.jpg"
+    ],
+    "stock": 35,
+    "rating": 4.7,
+    "review_count": 280,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p59",
+    "name": "Makeup Brush Set (10 pcs)",
+    "description": "Soft synthetic makeup brushes for foundation, blush, and eyeshadow.",
+    "price": 999,
+    "category": "Beauty",
+    "images": [
+      "/images/products/p59.jpg"
+    ],
+    "stock": 95,
+    "rating": 4.6,
+    "review_count": 220,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p60",
+    "name": "Men’s Analog Watch",
+    "description": "Stylish analog wristwatch with stainless steel strap and quartz movement.",
+    "price": 4599,
+    "category": "Accessories",
+    "images": [
+      "/images/products/p60.jpg"
+    ],
+    "stock": 40,
+    "rating": 4.8,
+    "review_count": 310,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p61",
+    "name": "Wireless Gaming Mouse",
+    "description": "Ergonomic gaming mouse with RGB lights and 7 programmable buttons.",
+    "price": 2299,
+    "category": "Electronics",
+    "images": [
+      "/images/products/p61.jpg"
+    ],
+    "stock": 90,
+    "rating": 4.7,
+    "review_count": 410,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p62",
+    "name": "Men’s Casual T-Shirt",
+    "description": "Soft cotton T-shirt with round neck and trendy print design.",
+    "price": 999,
+    "category": "Clothing",
+    "images": [
+      "/images/products/p62.jpg"
+    ],
+    "stock": 120,
+    "rating": 4.5,
+    "review_count": 270,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p63",
+    "name": "Women’s Yoga Pants",
+    "description": "High-waist stretchable yoga leggings with breathable fabric.",
+    "price": 1499,
+    "category": "Clothing",
+    "images": [
+      "/images/products/p63.jpg"
+    ],
+    "stock": 100,
+    "rating": 4.6,
+    "review_count": 320,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p64",
+    "name": "Hair Dryer 2000W",
+    "description": "Powerful salon-grade hair dryer with 3 heat settings and cool shot.",
+    "price": 2599,
+    "category": "Beauty",
+    "images": [
+      "/images/products/p64.jpg"
+    ],
+    "stock": 70,
+    "rating": 4.5,
+    "review_count": 230,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p65",
+    "name": "Microwave Oven 20L",
+    "description": "Compact microwave oven with defrost and auto cook features.",
+    "price": 6999,
+    "category": "Kitchen",
+    "images": [
+      "/images/products/p65.jpg"
+    ],
+    "stock": 50,
+    "rating": 4.6,
+    "review_count": 150,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p66",
+    "name": "Wooden Study Table",
+    "description": "Minimalist design wooden study desk for home office setup.",
+    "price": 5499,
+    "category": "Furniture",
+    "images": [
+      "/images/products/p66.jpg"
+    ],
+    "stock": 30,
+    "rating": 4.7,
+    "review_count": 190,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p67",
+    "name": "Leather Office Chair",
+    "description": "Comfortable ergonomic office chair with adjustable height and armrests.",
+    "price": 8999,
+    "category": "Furniture",
+    "images": [
+      "/images/products/p67.jpg"
+    ],
+    "stock": 25,
+    "rating": 4.8,
+    "review_count": 260,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p68",
+    "name": "Ceiling Light LED",
+    "description": "Modern round LED ceiling light with energy-saving technology.",
+    "price": 1999,
+    "category": "Home Decor",
+    "images": [
+      "/images/products/p68.jpg"
+    ],
+    "stock": 60,
+    "rating": 4.5,
+    "review_count": 170,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p69",
+    "name": "Smart Home Speaker",
+    "description": "Voice-controlled smart speaker with Bluetooth and Wi-Fi connectivity.",
+    "price": 4999,
+    "category": "Electronics",
+    "images": [
+      "/images/products/p69.jpg"
+    ],
+    "stock": 80,
+    "rating": 4.7,
+    "review_count": 310,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p70",
+    "name": "Men’s Sports Shorts",
+    "description": "Lightweight quick-dry shorts with elastic waistband and side pockets.",
+    "price": 1199,
+    "category": "Clothing",
+    "images": [
+      "/images/products/p70.jpg"
+    ],
+    "stock": 90,
+    "rating": 4.4,
+    "review_count": 200,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p71",
+    "name": "Smart LED Bulb",
+    "description": "Wi-Fi enabled color-changing smart bulb controllable via mobile app.",
+    "price": 899,
+    "category": "Electronics",
+    "images": [
+      "/images/products/p71.jpg"
+    ],
+    "stock": 140,
+    "rating": 4.6,
+    "review_count": 350,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p72",
+    "name": "Women’s Denim Jeans",
+    "description": "Slim-fit stretchable denim jeans with high-rise waist.",
+    "price": 1999,
+    "category": "Clothing",
+    "images": [
+      "/images/products/p72.jpg"
+    ],
+    "stock": 80,
+    "rating": 4.5,
+    "review_count": 220,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p73",
+    "name": "Men’s Casual Sneakers",
+    "description": "Comfortable and stylish sneakers perfect for casual wear.",
+    "price": 3299,
+    "category": "Footwear",
+    "images": [
+      "/images/products/p73.jpg"
+    ],
+    "stock": 70,
+    "rating": 4.6,
+    "review_count": 270,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p74",
+    "name": "Electric Kettle 1.5L",
+    "description": "Auto shut-off stainless steel electric kettle with 360° base.",
+    "price": 1599,
+    "category": "Kitchen",
+    "images": [
+      "/images/products/p74.jpg"
+    ],
+    "stock": 85,
+    "rating": 4.7,
+    "review_count": 230,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p75",
+    "name": "Women’s Perfume - Blossom",
+    "description": "Long-lasting floral fragrance for women.",
+    "price": 2499,
+    "category": "Beauty",
+    "images": [
+      "/images/products/p75.jpg"
+    ],
+    "stock": 120,
+    "rating": 4.8,
+    "review_count": 320,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p76",
+    "name": "Wooden Wall Shelf",
+    "description": "Floating wall shelves made of durable pine wood, perfect for books or decor.",
+    "price": 1799,
+    "category": "Home Decor",
+    "images": [
+      "/images/products/p76.jpg"
+    ],
+    "stock": 40,
+    "rating": 4.6,
+    "review_count": 140,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p77",
+    "name": "Men’s Leather Belt",
+    "description": "Premium brown genuine leather belt with metallic buckle.",
+    "price": 1299,
+    "category": "Accessories",
+    "images": [
+      "/images/products/p77.jpg"
+    ],
+    "stock": 100,
+    "rating": 4.5,
+    "review_count": 210,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p78",
+    "name": "Smartphone Gimbal",
+    "description": "3-axis handheld stabilizer for smooth video recording and live streaming.",
+    "price": 7999,
+    "category": "Electronics",
+    "images": [
+      "/images/products/p78.jpg"
+    ],
+    "stock": 30,
+    "rating": 4.7,
+    "review_count": 200,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p79",
+    "name": "Women’s Winter Jacket",
+    "description": "Warm padded jacket with detachable hood and side pockets.",
+    "price": 4999,
+    "category": "Clothing",
+    "images": [
+      "/images/products/p79.jpg"
+    ],
+    "stock": 45,
+    "rating": 4.8,
+    "review_count": 190,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p80",
+    "name": "Kids’ Study Lamp",
+    "description": "Adjustable LED desk lamp with touch control and night light feature.",
+    "price": 1299,
+    "category": "Home Decor",
+    "images": [
+      "/images/products/p80.jpg"
+    ],
+    "stock": 65,
+    "rating": 4.6,
+    "review_count": 160,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p81",
+    "name": "Wireless Earbuds",
+    "description": "Noise-cancelling Bluetooth earbuds with 24-hour battery life.",
+    "price": 3499,
+    "category": "Electronics",
+    "images": [
+      "/images/products/p81.jpg"
+    ],
+    "stock": 100,
+    "rating": 4.7,
+    "review_count": 410,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p82",
+    "name": "Men’s Running Shoes",
+    "description": "Lightweight running shoes with breathable mesh and cushioned sole.",
+    "price": 2999,
+    "category": "Footwear",
+    "images": [
+      "/images/products/p82.jpg"
+    ],
+    "stock": 75,
+    "rating": 4.6,
+    "review_count": 250,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p83",
+    "name": "Women’s Handbag",
+    "description": "Stylish PU leather handbag with spacious compartments and zipper closure.",
+    "price": 2599,
+    "category": "Accessories",
+    "images": [
+      "/images/products/p83.jpg"
+    ],
+    "stock": 60,
+    "rating": 4.5,
+    "review_count": 180,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p84",
+    "name": "Laptop Cooling Pad",
+    "description": "5-fan adjustable cooling pad with LED lights for laptops up to 17 inches.",
+    "price": 1799,
+    "category": "Electronics",
+    "images": [
+      "/images/products/p84.jpg"
+    ],
+    "stock": 85,
+    "rating": 4.4,
+    "review_count": 230,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p85",
+    "name": "Electric Toothbrush",
+    "description": "Rechargeable electric toothbrush with 3 cleaning modes and soft bristles.",
+    "price": 2299,
+    "category": "Beauty",
+    "images": [
+      "/images/products/p85.jpg"
+    ],
+    "stock": 50,
+    "rating": 4.6,
+    "review_count": 170,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p86",
+    "name": "Yoga Mat Non-Slip",
+    "description": "Eco-friendly non-slip yoga mat with carrying strap.",
+    "price": 1599,
+    "category": "Fitness",
+    "images": [
+      "/images/products/p86.jpg"
+    ],
+    "stock": 100,
+    "rating": 4.7,
+    "review_count": 280,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p87",
+    "name": "Bluetooth Keyboard",
+    "description": "Compact wireless keyboard compatible with laptops, tablets, and phones.",
+    "price": 1899,
+    "category": "Electronics",
+    "images": [
+      "/images/products/p87.jpg"
+    ],
+    "stock": 95,
+    "rating": 4.5,
+    "review_count": 190,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p88",
+    "name": "Cookware Set (5 pcs)",
+    "description": "Non-stick cookware set including pan, pot, and spatula.",
+    "price": 3999,
+    "category": "Kitchen",
+    "images": [
+      "/images/products/p88.jpg"
+    ],
+    "stock": 40,
+    "rating": 4.6,
+    "review_count": 160,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p89",
+    "name": "Women’s Sandals",
+    "description": "Comfortable flat sandals for daily wear with soft sole.",
+    "price": 1499,
+    "category": "Footwear",
+    "images": [
+      "/images/products/p89.jpg"
+    ],
+    "stock": 60,
+    "rating": 4.5,
+    "review_count": 130,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p90",
+    "name": "Men’s Hoodie",
+    "description": "Casual cotton hoodie with front pocket and adjustable hood.",
+    "price": 2499,
+    "category": "Clothing",
+    "images": [
+      "/images/products/p90.jpg"
+    ],
+    "stock": 80,
+    "rating": 4.7,
+    "review_count": 260,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p91",
+    "name": "Smart Fitness Band",
+    "description": "Track steps, calories, heart rate, and sleep with this Bluetooth fitness tracker.",
+    "price": 2499,
+    "category": "Electronics",
+    "images": [
+      "/images/products/p91.jpg"
+    ],
+    "stock": 120,
+    "rating": 4.6,
+    "review_count": 410,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p92",
+    "name": "Women’s Makeup Kit",
+    "description": "Complete makeup set including lipsticks, blush, and eyeshadow palette.",
+    "price": 3299,
+    "category": "Beauty",
+    "images": [
+      "/images/products/p92.jpg"
+    ],
+    "stock": 80,
+    "rating": 4.7,
+    "review_count": 290,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p93",
+    "name": "Bluetooth Speaker",
+    "description": "Portable waterproof speaker with deep bass and 10-hour battery life.",
+    "price": 2999,
+    "category": "Electronics",
+    "images": [
+      "/images/products/p93.jpg"
+    ],
+    "stock": 85,
+    "rating": 4.8,
+    "review_count": 360,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p94",
+    "name": "Men’s Analog Watch",
+    "description": "Classic leather strap analog watch with date display.",
+    "price": 4499,
+    "category": "Accessories",
+    "images": [
+      "/images/products/p94.jpg"
+    ],
+    "stock": 70,
+    "rating": 4.7,
+    "review_count": 300,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p95",
+    "name": "Women’s Sunglasses",
+    "description": "UV-protected oversized sunglasses with stylish frame design.",
+    "price": 1999,
+    "category": "Accessories",
+    "images": [
+      "/images/products/p95.jpg"
+    ],
+    "stock": 90,
+    "rating": 4.5,
+    "review_count": 210,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p96",
+    "name": "Ceramic Dinner Set (18 pcs)",
+    "description": "Elegant white ceramic dinner set ideal for home and restaurant use.",
+    "price": 5599,
+    "category": "Kitchen",
+    "images": [
+      "/images/products/p96.jpg"
+    ],
+    "stock": 40,
+    "rating": 4.6,
+    "review_count": 140,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p97",
+    "name": "Wireless Charging Pad",
+    "description": "Fast wireless charging pad compatible with all Qi-enabled devices.",
+    "price": 1999,
+    "category": "Electronics",
+    "images": [
+      "/images/products/p97.jpg"
+    ],
+    "stock": 70,
+    "rating": 4.7,
+    "review_count": 250,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p98",
+    "name": "Men’s Formal Shirt",
+    "description": "Cotton slim-fit formal shirt suitable for office wear.",
+    "price": 1799,
+    "category": "Clothing",
+    "images": [
+      "/images/products/p98.jpg"
+    ],
+    "stock": 90,
+    "rating": 4.5,
+    "review_count": 220,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p99",
+    "name": "Women’s Necklace Set",
+    "description": "Gold-plated necklace and earring set perfect for festive occasions.",
+    "price": 3499,
+    "category": "Jewelry",
+    "images": [
+      "/images/products/p99.jpg"
+    ],
+    "stock": 50,
+    "rating": 4.8,
+    "review_count": 310,
+    "created_at": "2025-10-25T12:00:00Z"
+  },
+  {
+    "id": "p100",
+    "name": "Baby Stroller",
+    "description": "Lightweight foldable stroller with adjustable canopy and safety harness.",
+    "price": 7999,
+    "category": "Baby Products",
+    "images": [
+      "/images/products/p100.jpg"
+    ],
+    "stock": 35,
+    "rating": 4.9,
+    "review_count": 280,
+    "created_at": "2025-10-25T12:00:00Z"
+  }
+]
